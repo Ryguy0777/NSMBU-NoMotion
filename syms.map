@@ -1,3 +1,4 @@
 @addresses_from "00050000-10101D00" // US v1.3.0 (v64)
 
 // If your mod uses symbols that aren't in RedCore, you can add them here.
+    _ZN13SysController20calcRemote_URCC_Acc_EPKN4sead10ControllerE = 0x025121F4;
